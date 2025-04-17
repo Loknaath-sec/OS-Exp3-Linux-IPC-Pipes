@@ -1,7 +1,7 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-
+ko ddvv
 
 # Ex03- Linux IPC - Pipes
 
@@ -43,4 +43,4 @@ Testing the C Program for the desired output.
 
 
 # RESULT:
-The program is executed successfully. hi da.
+The program is executed successfully.
