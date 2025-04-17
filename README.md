@@ -3,7 +3,7 @@ Linux-IPC-Pipes
 
 
 
-# Ex03-Linux IPC - Pipes
+# Ex03- Linux IPC - Pipes
 
 # AIM:
 To write a C program that illustrate communication between two process using unnamed and named pipes
@@ -43,4 +43,4 @@ Testing the C Program for the desired output.
 
 
 # RESULT:
-The program is executed successfully.
+The program is executed successfully. hi da.
